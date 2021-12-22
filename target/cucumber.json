@@ -1,0 +1,290 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8378150300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Setup.setup()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "- Verification Of Our Cursus Functionality",
+        "description": "",
+        "id": "our-cursus;--verification-of-our-cursus-functionality",
+        "after": [
+          {
+            "result": {
+              "duration": 1921312600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Setup.embedScreenshot(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 13644335300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I navigates to ExpertTeam",
+            "match": {
+              "location": "AccueilStepDefinitions.iNavigatesToExpertTeam()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 754017400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I move the mouse to the menu Nos Cursus",
+            "match": {
+              "location": "NosCursusStepsDefinitions.iMoveTheMouseToTheMenuNosCursus()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 9738350900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on the sub menu Testeur logiciel et automatisation",
+            "match": {
+              "location": "NosCursusStepsDefinitions.iClickOnTheSubMenuTesteurLogicielEtAutomatisation()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 70699900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I  verify the page Testeur logiciel et automatisation",
+            "match": {
+              "location": "NosCursusStepsDefinitions.iVerifyThePageTesteurLogicielEtAutomatisation()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3773177400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click on the button Pré inscription",
+            "match": {
+              "location": "NosCursusStepsDefinitions.iClickOnTheButtonPréInscription()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 896321500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I  verify the page demander devis",
+            "match": {
+              "location": "NosCursusStepsDefinitions.iVerifyThePageDemanderDevis()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 13737034000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I click on the sub menu Testeur Automaticien",
+            "match": {
+              "location": "NosCursusStepsDefinitions.iClickOnTheSubMenuTesteurAutomaticien()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 620014300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I  verify the page Testeur Automaticien",
+            "match": {
+              "location": "NosCursusStepsDefinitions.iVerifyThePageTesteurAutomaticien()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 970347700,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I click on the sub menu Développeur Full stack JS",
+            "match": {
+              "location": "NosCursusStepsDefinitions.iClickOnTheSubMenuDéveloppeurFullStackJS()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 339734400,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I  verify the page Développeur Full stack JS",
+            "match": {
+              "location": "NosCursusStepsDefinitions.iVerifyThePageDéveloppeurFullStackJS()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 781612700,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I click on the sub menu Développeur Applications Mobiles",
+            "match": {
+              "location": "NosCursusStepsDefinitions.iClickOnTheSubMenuDéveloppeurApplicationsMobiles()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 313716900,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I  verify the page Développeur Applications Mobiles",
+            "match": {
+              "location": "NosCursusStepsDefinitions.iVerifyThePageDéveloppeurApplicationsMobiles()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 776408200,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I click on the sub menu UX/UI Designer",
+            "match": {
+              "location": "NosCursusStepsDefinitions.iClickOnTheSubMenuUXUIDesigner()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 321131800,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I  verify the page UX/UI Designer",
+            "match": {
+              "location": "NosCursusStepsDefinitions.iVerifyThePageUXUIDesigner()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 820095300,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I click on the sub menu Marketing digital",
+            "match": {
+              "location": "NosCursusStepsDefinitions.iClickOnTheSubMenuMarketingDigital()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 361861300,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I  verify the page Marketing digital",
+            "match": {
+              "location": "NosCursusStepsDefinitions.iVerifyThePageMarketingDigital()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 709404700,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I click on the sub menu Responsable commerciale",
+            "match": {
+              "location": "NosCursusStepsDefinitions.iClickOnTheSubMenuResponsableCommerciale()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 342436200,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I  verify the page Responsable commerciale",
+            "match": {
+              "location": "NosCursusStepsDefinitions.iVerifyThePageResponsableCommerciale()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 831863900,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I click on the sub menu IT Acquisition Talent",
+            "match": {
+              "location": "NosCursusStepsDefinitions.iClickOnTheSubMenuITAcquisitionTalent()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 365141000,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I  verify the page IT Acquisition Talent",
+            "match": {
+              "location": "NosCursusStepsDefinitions.iVerifyThePageITAcquisitionTalent()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Our Cursus",
+    "description": "As a user I want to access the courses",
+    "id": "our-cursus",
+    "keyword": "Feature",
+    "uri": "NosCursus.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@nos-cursus"
+      }
+    ]
+  }
+]

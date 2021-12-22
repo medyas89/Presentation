@@ -1,0 +1,18 @@
+2021-12-22 23:01:09,753 - com.improvetn.ett.qa.utils.AbstractPage - INFO - J ouvre le site ExpertTeam
+2021-12-22 23:01:23,657 - com.improvetn.ett.qa.utils.AbstractPage - INFO - I click on the sub menu Testeur logiciel et automatisation
+2021-12-22 23:01:33,399 - com.improvetn.ett.qa.utils.AbstractPage - INFO - I verify the page Testeur logiciel et automatisation
+2021-12-22 23:01:33,471 - com.improvetn.ett.qa.utils.AbstractPage - INFO - I click on the button Pré inscription
+2021-12-22 23:01:38,143 - com.improvetn.ett.qa.utils.AbstractPage - INFO - I click on the sub menu Testeur Automaticien
+2021-12-22 23:01:51,884 - com.improvetn.ett.qa.utils.AbstractPage - INFO - I  verify the page Testeur Automaticien
+2021-12-22 23:01:52,506 - com.improvetn.ett.qa.utils.AbstractPage - INFO - I click on the sub menu Développeur Full stack JS
+2021-12-22 23:01:53,478 - com.improvetn.ett.qa.utils.AbstractPage - INFO - I  verify the page Développeur Full stack JS
+2021-12-22 23:01:53,819 - com.improvetn.ett.qa.utils.AbstractPage - INFO - I click on the sub menu Développeur Applications Mobiles
+2021-12-22 23:01:54,602 - com.improvetn.ett.qa.utils.AbstractPage - INFO - I  verify the page Développeur Applications Mobiles
+2021-12-22 23:01:54,917 - com.improvetn.ett.qa.utils.AbstractPage - INFO - I click on the sub menu UX/UI Designer
+2021-12-22 23:01:55,696 - com.improvetn.ett.qa.utils.AbstractPage - INFO - I  verify the page UX/UI Designer
+2021-12-22 23:01:56,019 - com.improvetn.ett.qa.utils.AbstractPage - INFO - I click on the sub menu Marketing digital
+2021-12-22 23:01:56,840 - com.improvetn.ett.qa.utils.AbstractPage - INFO - I  verify the page Marketing digital
+2021-12-22 23:01:57,205 - com.improvetn.ett.qa.utils.AbstractPage - INFO - I click on the sub menu Responsable commerciale
+2021-12-22 23:01:57,916 - com.improvetn.ett.qa.utils.AbstractPage - INFO - I  verify the page Responsable commerciale
+2021-12-22 23:01:58,259 - com.improvetn.ett.qa.utils.AbstractPage - INFO - I click on the sub menu IT Acquisition Talent
+2021-12-22 23:01:59,092 - com.improvetn.ett.qa.utils.AbstractPage - INFO - I  verify the page IT Acquisition Talent
